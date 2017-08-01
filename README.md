@@ -1,2 +1,6 @@
 # hello-world
-Just another Repository : Journey with Ël in this great world of GIT.
+
+Hi Git-People,
+I'm here to learn how to use Roadiz, a kind of a cool new world for me …
+
+- Mandresi -
