@@ -1,6 +1,5 @@
 # hello-world
 
-Hi Git-People,
-I'm here to learn how to use Roadiz, a kind of a cool new world for me …
-
+Hi GIT-people,
+I'm here to learn Roadiz, the web : "a wonderful world" :-)
 - Mandresi -
