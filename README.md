@@ -1,2 +1,4 @@
 # hello-world
-Just another Repository : Journey with Ël in this great world of GIT.
+
+Hi GIT-people,
+I'm here to learn Roadiz, the web : "a wonderful world" :-)
